@@ -1,0 +1,55 @@
+particles .particles-container{
+    background-image: url('/assets/image1.jpg')
+}
+
+.info{
+    top:50%;
+    color: white;
+    text-align: center;
+    letter-spacing: 2px;
+    height: auto;
+    width: 100%;
+    line-height: 0.4em;
+}
+
+.about{
+    margin-top: 200px;
+    text-align: center;
+    letter-spacing: 2px;
+    
+}
+
+.section-dark{
+    /* background-color: #282e34; */
+    color:white;
+    padding: 50px 80px;
+}
+
+.project{
+    width:auto;
+    height:auto;
+    border: 1px solid white;
+    margin: 10px
+}
+
+.progress{
+    margin: 10px
+}
+
+.skill{
+    border:1px solid white;
+    width:auto;
+    height: 100px;
+    margin: 10px; 
+    padding: 20px; 
+    font-weight: bold
+}
+
+.container{
+   
+    display: flex;
+    /* flex-direction: column;*/
+    align-items: center; 
+    /* justify-content: center;*/
+}
+
